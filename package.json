@@ -1,0 +1,38 @@
+{
+  "name": "brighter-material-palenight",
+  "displayName": "Brighter material palenight",
+  "description": "material palenight theme with brighter colours",
+  "version": "0.0.1",
+  "publisher": "hllllp11",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "brighter material palenight",
+    "brighter-material-palenight",
+    "hllllp11",
+    "hllp11",
+    "hllp",
+    "material",
+    "palenight",
+    "material palenight",
+    "python",
+    "python material palenight"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brighter material palenight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Brighter material palenight-color-theme.json"
+      }
+    ]
+  }
+}
